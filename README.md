@@ -17,3 +17,10 @@ const kirk = {
   [![Twitter: Veitch](https://img.shields.io/twitter/follow/KirkVeitch?style=social)](https://twitter.com/KirkVeitch)
   [![Linkedin: thaianebraga](https://img.shields.io/badge/-kirkaveitch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirkaveitch/)](https://www.linkedin.com/in/kirkaveitch/)
   [![GitHub KVeitch](https://img.shields.io/github/followers/KVeitch?label=follow&style=social)](https://github.com/KVeitch)
+
+  <p align="center" >
+<a href="https://github.com/KVeitch/github-readme-stats"> 
+    <img  src="https://github-readme-stats.vercel.app/api?username=KVeitch&&show_icons=true&theme=radical"/>
+  </a>
+
+</p>
