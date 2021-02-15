@@ -9,7 +9,8 @@ As Former engineer and public school educator,  I have always been drawn to math
 const kirk = {
   pronouns: "he" | "him",
   code: [JavaScript, HTML, CSS],
-  tools:[React, Redux, Node, Mocha, Chai, Jest, Adobe XD, Photoshop]
+  tools:[React, Redux, Node, Mocha, Chai, Jest, Adobe XD, Photoshop],
+  currentChallenges: [#100DaysOfCode, typescript, Python],
 }
 ```
   
