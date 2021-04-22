@@ -5,7 +5,7 @@ const kirk = {
   pronouns: "he" | "him",
   code: [JavaScript, HTML, CSS],
   tools:[React, Redux, Node, Mocha, Chai, Jest, Adobe XD, Photoshop],
-  currentChallenges: [#100DaysOfCode, typescript, Python],
+  currentChallenges: [typescript, MaterialUI, Ruby],
 }
 ```
 
